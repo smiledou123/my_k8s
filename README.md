@@ -1,2 +1,2 @@
-# my_k8s
+# my k8s
 Online project hosting using k8s
